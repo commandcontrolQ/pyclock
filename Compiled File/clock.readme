@@ -1,0 +1,27 @@
+Binary/Octal/Denary/Hexadecimal Clock
+
+This program displays a clock in 4 formats:
+- Regular denary / decimal numbers
+- Hexadecimal (using capital letters)
+- Binary (represented in 6 digits instead of 8)
+- Octal 
+
+There are two versions of the program:
+- clock_sfst.pyc will get the current time and start from there
+- clock_zero.pyc will start the clock from 00:00:00
+
+There are no known additional dependencies.
+
+
+
+   ██████                         ██      ██                      ██ 
+  ██    ██                        ██                              ██ 
+  ██         ██████   ██    ██  ██████    ██   ██████   ███████   ██ 
+  ██              ██  ██    ██    ██      ██  ██    ██  ██    ██  ██ 
+  ██         ███████  ██    ██    ██      ██  ██    ██  ██    ██     
+  ██    ██  ██    ██  ██    ██    ██  ██  ██  ██    ██  ██    ██     
+   ██████    ███████   ██████      ████   ██   ██████   ██    ██  ██ 
+                                                                     
+This program uses fast strings, which means that the Python version must
+be at least 3.6!
+
